@@ -5,7 +5,7 @@ const Paragraph = (props) => {
 
     return (
         <div>
-            <p>hi</p>
+            <p>myp example</p>
             <p style={{color: 'green'}}>{text}</p>
         </div>
     );
